@@ -1,6 +1,8 @@
+ID : B201093
+
 NAME : U.Sravani
 
-ID : B201093
+LAB NAME: Machine Learning
 
 CLASS : CSE-C1
 
